@@ -17,42 +17,46 @@
 <li>    Google Analytics</li>
 </ul>
 
-Site building Modules:
-    Rabbit Hole
-    Quick Link
-    Image Effects
-    Weight
-    Role Expire
-    Twig Field Value
-    jQuery Update
-    Entity Browser
-    Paragraphs Previewer
-    Views Parity Row
-    Leaflet
-    Background Images Formatter
-    OtherView Filter
-    Taxonomy Formatter
-    Copy Prevention
-    Consumers
-    Nagios
-    Autoban
-
-Ecommerce Modules:
-    Drupal Commerce 
-    Commerce Price Rule
-    Commerce Shipping
-    IP-based Determination of a Visitor's Country
-    Currency Conversion
-    Commerce Wishlist
-    E-Marketing
-    Payment Gateway
-    Physical Field
-    Ecwid Shopping Cart
-    Saleforce
-
-Security Modules:
-    Login Security
-    Disable Login Page
-    Password Policy
-    Security Kit
-    CAPTCHA
+<h4>Site building Modules:</h4>
+<ul>
+<li>    Rabbit Hole</li>
+<li>    Quick Link</li>
+<li>    Image Effects</li>
+<li>    Weight</li>
+<li>    Role Expire</li>
+<li>    Twig Field Value</li>
+<li>    jQuery Update</li>
+<li>    Entity Browser</li>
+<li>    Paragraphs Previewer</li>
+<li>    Views Parity Row</li>
+<li>    Leaflet</li>
+<li>    Background Images Formatter</li>
+<li>    OtherView Filter</li>
+<li>    Taxonomy Formatter</li>
+<li>    Copy Prevention</li>
+<li>    Consumers</li>
+<li>    Nagios</li>
+<li>    Autoban</li>
+</ul>
+    <h4>Ecommerce Modules:</h4>
+<ul>    
+<li>    Drupal Commerce </li>
+<li>    Commerce Price Rule</li>
+<li>    Commerce Shipping</li>
+<li>    IP-based Determination of a Visitor's Country</li>
+<li>    Currency Conversion</li>
+<li>    Commerce Wishlist</li>
+<li>    E-Marketing</li>
+<li>    Payment Gateway</li>
+<li>    Physical Field</li>
+<li>    Ecwid Shopping Cart</li>
+<li>    Saleforce</li>
+</ul>
+<h4>Security Modules:</h4>
+<ul>
+<li>    Login Security</li>
+<li>    Disable Login Page</li>
+<li>    Password Policy</li>
+<li>    Security Kit</li>
+<li>    CAPTCHA</li>
+</ul>
